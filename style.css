@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.news-content-holder{
+	color: white;
+	background:rgba(100,200,50,.8);
+	padding: 40px;
+}
+.about-ultra-para{
+	text-align:justify;	
+}
+.body{
+	background:rgba(100,15,10,.2);
+}
+
+.board-result{
+	padding-top: 10px;
+}
+.footer-social{
+	font-size: 30px;
+	padding: 15px;
+	
+}
+
+.footer-copyright{
+	background: #002147;
+	color: white;
+}
